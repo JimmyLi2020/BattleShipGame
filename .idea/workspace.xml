@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b212f79a-3726-4d3a-8349-00186ea9acd1" name="Default Changelist" comment="" />
+    <list default="true" id="b212f79a-3726-4d3a-8349-00186ea9acd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BattleShip/BattleShip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip/src/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip/src/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BattleShipGame.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,8 +34,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -34,12 +52,49 @@
       <option name="presentableId" value="Default" />
       <updated>1582056284729</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add framework for a java project.">
+      <created>1582056400738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582056400738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add framework for a java project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add framework for a java project." />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="448" y="181" key="SettingsEditor" timestamp="1582056331122">
+    <state x="560" y="265" key="#Project_Structure" timestamp="1582057264894">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="448" y="181" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1582056331122" />
+    <state x="560" y="265" key="#Project_Structure/0.0.1920.1200@0.0.1920.1200" timestamp="1582057264894" />
+    <state x="583" y="294" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582056828222">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="583" y="294" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1582056828222" />
+    <state x="584" y="204" key="CommitChangelistDialog2" timestamp="1582056400615">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="584" y="204" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1582056400615" />
+    <state x="448" y="181" key="SettingsEditor" timestamp="1582057436089">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="448" y="181" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1582057436089" />
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2" timestamp="1582056414751">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1582056414751" />
+    <state x="618" y="235" width="683" height="729" key="find.popup" timestamp="1582057388258">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="618" y="235" width="683" height="729" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1582057388258" />
+    <state x="337" y="222" key="new project wizard" timestamp="1582057433704">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="337" y="222" key="new project wizard/0.0.1920.1200@0.0.1920.1200" timestamp="1582057433704" />
   </component>
 </project>
